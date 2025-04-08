@@ -1,1 +1,2 @@
-Init
+
+<img src="banner.png">
