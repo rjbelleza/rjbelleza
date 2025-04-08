@@ -14,7 +14,7 @@ I am **RJ Belleza**, an aspiring software developer currently taking **Bachelor 
     <img src="laravel.png" width="50" height="50">
     <img src="git.png" width="50" height="50">
     <img src="github.png" width="50" height="50">
-<div><br>
+<div><br><br>
   
 💪 **I'm looking to collaborate on:**
 - Small projects (quick games, portfolios, school coding tasks, etc.)
