@@ -7,10 +7,10 @@ I am **RJ Belleza**, an aspiring software developer currently taking **Bachelor 
 
 📚 **I'm currently learning:**
 <div style="display: flex;">
-    <img src="js.png">
-    <img src="php.png">
-    <img src="python.png">
-    <img src="react.png">
-    <img src="laravel.png">
+    <img src="js.png" width="50" height="50">
+    <img src="php.png" width="50" height="50">
+    <img src="python.png" width="50" height="50">
+    <img src="react.png" width="50" height="50">
+    <img src="laravel.png" width="50" height="50">
 <div>
 
