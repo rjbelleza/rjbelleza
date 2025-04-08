@@ -20,7 +20,8 @@ I am **RJ Belleza**, an aspiring software developer currently taking **Bachelor 
 - Small projects (quick games, portfolios, school coding tasks, etc.)
 - Capstone projects
 - Brainstorming  
-
+  
+  
 📞 **How to reach me:**
 - [Facebook](https://www.facebook.com/belleza.rj.b)
 - [Instagram](https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Feeve_insomnia%2Fprofilecard%2F%3Figsh%3DZndiZWw5dzI2M2Z6l&h=AT3MkS4-FZ2JDxSGHTPfF9RZN2-Lko1PeS-q8IDXyqT0XfRqaKi1cUkk5j9kwqP13SEIE82AlsP5H7Tggdbwum7fQdxWlYjTNp-801qcDSZr92VgdCUT_6f0AfyzoYDT7D2EDw)
