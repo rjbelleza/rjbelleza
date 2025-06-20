@@ -38,7 +38,5 @@ I am **RJ Belleza**, an aspiring **Frontend Web Developer** currently pursuing a
 [![LinkedIn - RJ Belleza](https://img.shields.io/badge/LinkedIn-RJ%20Belleza-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rj-belleza-a5b913336)
 <br><br>
 
-<div style="display:flex">
-    <p> <img src="https://github-readme-stats.vercel.app/api?username=rjbelleza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
-    <p> <img src="https://github-contributor-stats.vercel.app/api?username=rjbelleza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" /> </p>
-</div>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rjbelleza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+<p align="left"> <img src="https://github-contributor-stats.vercel.app/api?username=rjbelleza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" /> </p>
