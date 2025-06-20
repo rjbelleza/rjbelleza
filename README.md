@@ -14,7 +14,7 @@ I am **RJ Belleza**, an aspiring **Frontend Web Developer** currently pursuing a
     <img src="js.png" width="50" height="50">
     <img src="typescript.png" width="50" height="50">
     <img src="php.png" width="50" height="50">
-<div>
+<div><br>
 
 **Frameworks / Libraries:**
 <div style="display: flex; gap: 15px;">
