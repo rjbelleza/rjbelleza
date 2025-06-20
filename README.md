@@ -1,9 +1,10 @@
 
 <img src="banner.png">
 
-## Hi there! 👋
+### Hi there! 👋
 
 I am **RJ Belleza**, an aspiring **Frontend Web Developer** currently pursuing a **Bachelor of Science in Information Technology** under Tagoloan Community College, Tagoloan, Misamis, Oriental.  
+<br>
 
 ### 📚 **I'm currently learning:**
 
@@ -21,7 +22,7 @@ I am **RJ Belleza**, an aspiring **Frontend Web Developer** currently pursuing a
     <img src="react.png" width="50" height="50">
     <img src="laravel.png" width="50" height="50">
     <img src="nextjs.png" width="50" height="50">
-<div><br>
+<div><br><br>
   
 💪 **I'm looking to collaborate on:**
 - Small projects (quick games, portfolios, school coding tasks, etc.)
