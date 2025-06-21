@@ -22,6 +22,7 @@ I am **RJ Belleza**, an aspiring **frontend web developer** currently pursuing a
     <img src="react.png" width="50" height="50">
     <img src="laravel.png" width="50" height="50">
     <img src="nextjs.png" width="50" height="50">
+    <img src="tailwind.png" width="50" height="50">
 <div><br><br>
   
 💪 **I'm looking to collaborate on:**
