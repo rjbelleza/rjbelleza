@@ -10,8 +10,6 @@ I am **RJ Belleza**, an aspiring **frontend web developer** currently pursuing a
 
 **Languages:**
 <div style="display: flex; gap: 15px;">
-    <img src="html.png" width="50" height="50">
-    <img src="css.png" width="50" height="50">
     <img src="js.png" width="50" height="50">
     <img src="typescript.png" width="50" height="50">
     <img src="php.png" width="50" height="50">
