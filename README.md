@@ -3,15 +3,13 @@
 
 ### Hi there! 👋
 
-I am **RJ Belleza**, an aspiring **frontend web developer** currently pursuing a **Bachelor of Science in Information Technology** at Tagoloan Community College, Tagoloan, Misamis, Oriental. Can also do some backend tasks.  
+I am **RJ Belleza**, an aspiring **front-end web developer** currently pursuing a **Bachelor of Science in Information Technology** at Tagoloan Community College, Tagoloan, Misamis Oriental. Willing to do some back-end tasks.  
 <br>
 
 ### 📚 **I'm currently learning:**
 
 **Languages:**
 <div style="display: flex; gap: 15px;">
-    <img src="html.png" width="50" height="50">
-    <img src="css.png" width="50" height="50">
     <img src="js.png" width="50" height="50">
     <img src="typescript.png" width="50" height="50">
     <img src="php.png" width="50" height="50">
