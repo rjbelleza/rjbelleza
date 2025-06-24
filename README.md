@@ -1,5 +1,5 @@
 
-<img src="banner.png">
+<img src="github-banner.png">
 
 ### Hi there! 👋
 
