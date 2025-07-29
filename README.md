@@ -3,7 +3,7 @@
 
 ### Hi there! 👋
 
-I am **RJ Belleza**, an aspiring **front-end web developer** currently pursuing a **Bachelor of Science in Information Technology** at Tagoloan Community College, Tagoloan, Misamis Oriental. Willing to do some back-end tasks.  
+I am **RJ Belleza**, an aspiring **front-end web developer** currently pursuing a **Bachelor of Science in Information Technology** at Tagoloan Community College, Tagoloan, Misamis Oriental. Also, willing to do some back-end tasks.  
 <br>
 
 ### 📚 **I'm currently learning:**
