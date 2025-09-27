@@ -55,7 +55,7 @@ I’m excited to **collaborate on projects** like:
 <h2>
   <img src="https://media.tenor.com/xWOaMBERP_EAAAAi/yup-yupforreal.gif" width="50" />
   &nbsp;&nbsp;
-  Connect With Me!
+  Connect With Me
 </h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/belleza.rj.b)
