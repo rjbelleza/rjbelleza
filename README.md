@@ -10,8 +10,8 @@ Passionate about crafting **clean, responsive UIs** and exploring the **server-s
 ## 🚀 What I’m Focusing On
 - **Front-End Excellence:** Modern, accessible, and performant web interfaces.  
 - **Back-End Foundations:** API development, database management, and scalable architecture.  
-- **Continuous Learning:** Staying updated with the latest JavaScript/TypeScript ecosystem and best practices.  
-
+- **Continuous Learning:** Staying updated with the latest JavaScript/TypeScript ecosystem and best practices.
+<br><br>
 
 ### 📚 **I'm currently learning:**
 
@@ -28,16 +28,17 @@ Passionate about crafting **clean, responsive UIs** and exploring the **server-s
     <img src="laravel.png" width="50" height="50">
     <img src="nextjs.png" width="50" height="50">
     <img src="tailwind.png" width="50" height="50">
-<div><br><br>
+<div>
+<br><br>
   
 ## 🤝 Let’s Build Something  
 I’m excited to **collaborate on projects** like:  
 - ✨ Full-stack web apps (portfolios, dashboards, SaaS prototypes)  
 - 🎓 Capstone or academic projects  
-- 🕹️ Small interactive games or creative coding experiments  
-  
+- 🕹️ Small interactive games or creative coding experiments
+<br><br><br>
 
-📞 **How to reach me:**<br><br>
+## 📞 How to reach me:<br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/belleza.rj.b)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Feeve_insomnia%2Fprofilecard%2F%3Figsh%3DZndiZWw5dzI2M2Z6l&h=AT3MkS4-FZ2JDxSGHTPfF9RZN2-Lko1PeS-q8IDXyqT0XfRqaKi1cUkk5j9kwqP13SEIE82AlsP5H7Tggdbwum7fQdxWlYjTNp-801qcDSZr92VgdCUT_6f0AfyzoYDT7D2EDw)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1135068988037148715)
