@@ -12,7 +12,6 @@ Passionate about crafting **clean, responsive UIs** and exploring the **server-s
 - **Back-End Foundations:** API development, database management, and scalable architecture.  
 - **Continuous Learning:** Staying updated with the latest JavaScript/TypeScript ecosystem and best practices.  
 
----
 
 ### 📚 **I'm currently learning:**
 
@@ -36,8 +35,6 @@ I’m excited to **collaborate on projects** like:
 - ✨ Full-stack web apps (portfolios, dashboards, SaaS prototypes)  
 - 🎓 Capstone or academic projects  
 - 🕹️ Small interactive games or creative coding experiments  
-
----
   
 
 📞 **How to reach me:**<br><br>
