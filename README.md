@@ -75,9 +75,9 @@ I’m excited to **collaborate on projects** like:
 <br><br>
 
 <h2>
-  <img src="https://media.tenor.com/f6b0SIB-MpsAAAAi/light-bulb-bulb.gif" width="40" />
+  <img src="https://media.tenor.com/fw1tSaC3MvUAAAAi/danser-encourager.gif" width="40" />
   &nbsp;
-  Fun Fact
+  Developer’s Mantra  
 </h2>
 
-When I’m not coding, I enjoy exploring **new web design trends** and learning about emerging JavaScript frameworks to stay ahead of the curve.
+> “The best way to predict the future is to create it.” — Abraham Lincoln
