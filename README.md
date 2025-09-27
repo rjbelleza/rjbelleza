@@ -3,8 +3,16 @@
 
 ### Hi there! 👋
 
-I am **RJ Belleza**, an aspiring **front-end web developer** currently pursuing a **Bachelor of Science in Information Technology** at Tagoloan Community College, Tagoloan, Misamis Oriental. Willing to do some back-end tasks.  
+I’m an **aspiring full-stack web developer** currently pursuing a **Bachelor of Science in Information Technology** at **Tagoloan Community College**, Misamis Oriental, Philippines.  
+Passionate about crafting **clean, responsive UIs** and exploring the **server-side world** to build complete, production-ready applications.  
 <br>
+
+## 🚀 What I’m Focusing On
+- **Front-End Excellence:** Modern, accessible, and performant web interfaces.  
+- **Back-End Foundations:** API development, database management, and scalable architecture.  
+- **Continuous Learning:** Staying updated with the latest JavaScript/TypeScript ecosystem and best practices.  
+
+---
 
 ### 📚 **I'm currently learning:**
 
@@ -15,7 +23,7 @@ I am **RJ Belleza**, an aspiring **front-end web developer** currently pursuing 
     <img src="php.png" width="50" height="50">
 <div><br>
 
-**Frameworks / Libraries:**
+**Frameworks & Libraries:**
 <div style="display: flex; gap: 15px;">
     <img src="react.png" width="50" height="50">
     <img src="laravel.png" width="50" height="50">
@@ -23,11 +31,13 @@ I am **RJ Belleza**, an aspiring **front-end web developer** currently pursuing 
     <img src="tailwind.png" width="50" height="50">
 <div><br><br>
   
-💪 **I'm looking to collaborate on:**
-- Small projects (quick games, portfolios, school coding tasks, etc.)
-- Capstone projects
-- Brainstorming  
-<br><br>
+## 🤝 Let’s Build Something  
+I’m excited to **collaborate on projects** like:  
+- ✨ Full-stack web apps (portfolios, dashboards, SaaS prototypes)  
+- 🎓 Capstone or academic projects  
+- 🕹️ Small interactive games or creative coding experiments  
+
+---
   
 
 📞 **How to reach me:**<br><br>
@@ -39,3 +49,6 @@ I am **RJ Belleza**, an aspiring **front-end web developer** currently pursuing 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rjbelleza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 <p align="left"> <img src="https://github-contributor-stats.vercel.app/api?username=rjbelleza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" /> </p>
+
+### 💡 Fun Fact  
+When I’m not coding, I enjoy exploring **new web design trends** and learning about emerging JavaScript frameworks to stay ahead of the curve.
