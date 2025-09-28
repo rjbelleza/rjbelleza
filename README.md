@@ -37,7 +37,7 @@ Passionate about crafting **clean, responsive UIs** and exploring the **server-s
     <img src="laravel.png" width="50" height="50">
     <img src="nextjs.png" width="50" height="50">
     <img src="tailwind.png" width="50" height="50">
-<div><br><br>
+<div><br><br><br>
   
 <h2>
   <img src="https://media.tenor.com/-1Cyi7q9fMUAAAAi/squad-team.gif" width="60" />
