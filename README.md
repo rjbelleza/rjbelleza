@@ -1,6 +1,8 @@
 
 <img src="github-banner.png">
 
+![GitHub Bio](profile-bio.gif)
+
 ### Hi there! 👋
 
 I’m an **aspiring full-stack web developer** currently pursuing a **Bachelor of Science in Information Technology** at **Tagoloan Community College**, Misamis Oriental, Philippines.  Passionate about crafting **clean, responsive UIs** and exploring the **server-side world** to build complete, production-ready applications.  
