@@ -69,7 +69,7 @@ I’m excited to **collaborate on projects** like:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rjbelleza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="450" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=rjbelleza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="330" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=rjbelleza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="340" />
 </div>
 <br>
 
