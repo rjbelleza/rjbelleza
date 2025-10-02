@@ -68,8 +68,8 @@ I’m excited to **collaborate on projects** like:
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rjbelleza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="400" height="500" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=rjbelleza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rjbelleza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="450" height="700" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=rjbelleza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="450" height="200" />
 </div>
 <br>
 
