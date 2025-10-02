@@ -67,8 +67,10 @@ I’m excited to **collaborate on projects** like:
   GitHub Stats
 </h2>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rjbelleza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
-<p align="left"> <img src="https://github-contributor-stats.vercel.app/api?username=rjbelleza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" /> </p>
+<div align="center">
+  <img align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rjbelleza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img align="left"> <img src="https://github-contributor-stats.vercel.app/api?username=rjbelleza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" height="150" />
+</div>
 <br>
 
 <h2>
