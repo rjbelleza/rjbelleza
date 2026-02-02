@@ -22,18 +22,16 @@
 </h2>
 
 **Languages:**
-<div style="display: flex; gap: 15px;">
-    <img src="js.png" width="50" height="50">
-    <img src="typescript.png" width="50" height="50">
-    <img src="php.png" width="50" height="50">
-<div><br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Frameworks & Libraries:**
-<div style="display: flex; gap: 15px;">
-    <img src="react.png" width="50" height="50">
-    <img src="laravel.png" width="50" height="50">
-    <img src="nextjs.png" width="50" height="50">
-    <img src="tailwind.png" width="50" height="50">
 <div><br><br><br>
   
 <h2>
