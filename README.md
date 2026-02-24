@@ -65,7 +65,7 @@ I’m excited to **collaborate on projects** like:
   GitHub Stats
 </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rjbelleza&theme=jolly&show_icons=true&hide_border=true&count_private=false&include_all_commits=true" width="450" />
+<img src="https://streak-stats.demolab.com/?user=rjbelleza&theme=radical" width="450" />
 <br><br>
 
 <h2>
