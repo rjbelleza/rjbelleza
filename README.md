@@ -1,5 +1,5 @@
 
-<img src="github-banner.png">
+<img src="banner-2.jpg">
 
 ![GitHub Bio](profile-bio.gif)
 
